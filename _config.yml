@@ -1,6 +1,6 @@
 baseurl: /guides
 markdown: redcarpet
-name: 18F Guides
+name: 18F GuideS
 exclude:
 - Gemfile
 - Gemfile.lock
