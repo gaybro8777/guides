@@ -1,4 +1,5 @@
 GEM
+  remote: https://rubygems.org/
   specs:
     blankslate (2.1.2.4)
     celluloid (0.16.0)
@@ -12,7 +13,7 @@ GEM
     colorator (0.1)
     execjs (2.5.2)
     fast-stemmer (1.0.2)
-    ffi (1.9.8)
+    ffi (1.13.1)
     guides_style_18f (0.0.1)
       jekyll (~> 2.5)
       rouge (~> 1.9)
